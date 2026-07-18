@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568693278515",
+    "project_id": "coffeebox-4d267",
+    "storage_bucket": "coffeebox-4d267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568693278515:android:51a7def4caa28f01f4a046",
+        "android_client_info": {
+          "package_name": "com.example.coffee_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568693278515-2cpufojl92bq4s93j4k3ruf1554htk7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsT6Aw5o9ZXcJiB-FvAAkgYG71WqQ-wT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568693278515-2cpufojl92bq4s93j4k3ruf1554htk7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
